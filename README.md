@@ -2,7 +2,7 @@
 
 This was done for a CW in Advanced Big Data analytics
 
-Datasets abalyszed used PySpark on EMR
+Datasets analyzed used PySpark on EMR
 
 
 https://data.kingcounty.gov/Health-Wellness/Food-Establishment-Inspection-Data/f29f-zza5/data_preview
